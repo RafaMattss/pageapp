@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PajeAPP</string>
+    <string name="logo_description">Logotipo FinanFácil</string>
+    <string name="by_category">Despesas por categoria</string>
+    <string name="history">Histórico</string>
+    <string name="category">Categorias</string>
+    <string name="register">Registrar</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="month">Maio</string>
+
+</resources>
